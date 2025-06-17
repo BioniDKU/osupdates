@@ -9,7 +9,8 @@ So far, the following images, and along with them, the challenges, were made and
 - **BioniDKU OSSE** | *Second edition* (January - March 2023)
 - **BioniDKU OSTE** | *Third edition* (July - September 2023)<sup>1</sup>
 - **BioniDKU OSXE** | *eXperimental edition* (January - April 2024)
-- **BioniDKU OSXEv2** |  *eXperimetnal editiom, version 2* (July - October 2024)
+- **BioniDKU OSXEv2** |  *eXperimetnal edition, version 2* (July - October 2024)
+- **BioniDKU OSXEv3** | *eXperimetnal edition, version 3* (July 2025)
 
 <sup>(1) The update system was first introduced in BioniDKU OSTE.</sup>
 
