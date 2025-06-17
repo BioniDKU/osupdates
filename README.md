@@ -1,6 +1,8 @@
 # BioniDKU OS Updates 
 This repository hosts software update releases for something known as **BioniDKU OS images**.
 
+![v3Desktop](https://github.com/user-attachments/assets/dcf21253-60db-46be-ba5a-6d06ff517525)
+
 **BioniDKU OS images** is a series of heavily customized Windows installations built on top of a specially modified BioniDKU experience. This was my way of hosting my own challenges, and also served as the test ground for ***some*** features that would be ported to the regular BioniDKU. 
 These OS images are made for and are only available for the people in my private community, and thus are **not open source.** 
 
